@@ -80,8 +80,8 @@ h1{
 .section-1-button{
     border: 1px solid black;
     border-radius: 34px;
-    padding: 9px 20px;
-    font-weight: bold;
+    padding: 20px 40px;
+    font-weight: 1000;
     position: absolute;
     bottom: 0px;
 }
@@ -116,8 +116,8 @@ h1{
 .section-2-button{
     border: 1px solid black;
     border-radius: 34px;
-    padding: 9px 20px;
-    font-weight: bold;
+    padding: 20px 40px;
+    font-weight: 1000;
     position: absolute;
     bottom: 0px;
 }
@@ -137,8 +137,8 @@ h1{
 .section-3-button{
     border: 1px solid black;
     border-radius: 34px;
-    padding: 9px 20px;
-    font-weight: bold;
+    padding: 20px 40px;
+    font-weight: 1000;
     position: absolute;
     bottom: 0px;
     right: 0px;
