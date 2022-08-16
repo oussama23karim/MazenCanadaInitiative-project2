@@ -34,6 +34,7 @@ nav{
     margin-bottom: 70px;
     padding-top:30px ;
     position: relative;
+    width: 1200px;
 }
 
 nav,
@@ -76,6 +77,7 @@ h1{
 #section-intro{
     display: flex;
     margin-bottom: 50px;
+    width: 1200px;
 }
 
 .section-1-left{
@@ -128,11 +130,11 @@ h1{
 
 /* section tree */
 
-#section-intro-3{
+#latest-videos{
     margin-bottom: 50px;
 }
 
-.section-3-part-1{
+.latest-videos-part-1{
     display: flex;
     position: relative;
     margin-bottom: 50px;
@@ -156,9 +158,7 @@ h1{
     /* border: 1px solid black;
     margin-bottom: 50px; */
 }
-.video-one ,
-.video-two ,
-.video-tree {
+.video{
     width:300px ;
     height:300px;
     /* border: 1px solid black; */
