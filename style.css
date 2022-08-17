@@ -132,6 +132,7 @@ h1{
 
 #latest-videos{
     margin-bottom: 50px;
+    width: 1200px;
 }
 
 .latest-videos-part-1{
@@ -164,9 +165,7 @@ h1{
     /* border: 1px solid black; */
     
 }
- .box-video-one ,
- .box-video-two ,
- .box-video-tree {
+ .box-video{
     border: 1px solid black;
     width: 300px;
     text-align: center;
